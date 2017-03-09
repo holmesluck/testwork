@@ -1,0 +1,135 @@
+@charset "UTF-8";
+<!--Myhomepage first css style by Zhang Yangzuo-->
+#main
+{
+    width: auto;  margin: 0px auto;
+}
+#maintitle
+{
+    height: 100px;
+}
+#title
+{
+    padding-left: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #f138ff;
+}
+#content
+{
+    overflow: auto;
+    margin-top: 20px;
+    background: #ff706f;
+}
+#mainpicture
+{
+    width: 500px;
+    height: 600px;
+    margin: 10px;
+    float: left;
+ }
+#myface
+{
+    width: 400px;
+    height: 500px;
+}
+#mainintroduction
+{
+    height: auto;
+    width: 800px;
+    margin: 20px;
+    float: left;
+}
+#movie
+{
+    margin: 20px;
+}
+#sound
+{
+    height: 100px;
+    width: 100px;
+    text-align: left;
+}
+#buttonstyle
+{
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+    font-size: 13px;
+    color: #fcff38;
+    background: blue;
+}
+#buttonstyle1
+{
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+    font-size: 13px;
+    color: #3765ff;
+    background: yellow;
+}
+#buttonstyle2
+{
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+    font-size: 13px;
+    color: #fcff38;
+    background: red;
+}
+p.p1
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background: #c642ff;
+}
+p.p2
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background-color: aqua;
+}
+p.p3
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background-color: #02ff4e;
+}
+p.p4
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background-color: yellow;
+}
+p.p5
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background-color: #ff781e;
+}
+p.p6
+{
+    font-size: 13px;
+    border:0px ;
+    word-wrap:break-word;
+    margin: 10px;
+    background-color: red;
+}
+#Footer{
+    height:40px;
+    margin-top:20px;
+    text-align: center;
+}
+.Clear{
+    clear:both;
+}

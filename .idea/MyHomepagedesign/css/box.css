@@ -1,0 +1,14 @@
+#box
+{
+    width: 520px ;
+    height: 520px;
+    text-align: center;
+    margin: 0px auto;
+}
+#singlebox
+{
+    width: 130px;
+    height: 130px;
+    background: green;
+    margin: 1px;
+}

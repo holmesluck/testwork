@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE subjects[
+        <!ELEMENT subjects (subject+,contact)>
+        <!ELEMENT subject (#PCDATA)>
+        <!ELEMENT contact (name,gender,address,telephone*)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT gender (male|female)>
+        <!ELEMENT male (#PCDATA)>
+        <!ELEMENT female (#PCDATA)>
+        <!ELEMENT address (#PCDATA)>
+        <!ELEMENT telephone (#PCDATA)>
+        <!ATTLIST subjects SUBJID CDATA #REQUIRED>
+        <!ATTLIST address zip NMTOKEN #IMPLIED>
+     ]>
+<subjects SUBJID="1">
+    <subject>comp5322</subject>
+    <contact>
+        <name>tom</name>
+        <gender>
+            male
+        </gender>
+        <address>
+            kfjkdlsjljfkjkjsk
+        </address>
+        <telephone>
+            12346574
+        </telephone>
+    </contact>
+</subjects>
+<subjects SUBJID="2">
+    <subject>comp1123</subject>
+    <contact>
+        <name>tomd</name>
+        <gender>
+            male
+        </gender>
+        <address>dfsuahf</address>
+        <telephone>2132424</telephone>
+    </contact>
+</subjects>

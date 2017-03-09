@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jquery-3.1.1"/>
+	<classpathentry kind="var" path="APPLICATION_PLUGINS_DIR/php/lib/php.jar" sourcepath="/APPLICATION_PLUGINS_DIR/php/lib/php.jar"/>
+	<classpathentry kind="var" path="APPLICATION_PLUGINS_DIR/php/lib/php.jar" sourcepath="/APPLICATION_PLUGINS_DIR/php/lib/php.jar"/>
+	<classpathentry kind="var" path="APPLICATION_PLUGINS_DIR/php/lib/php.jar" sourcepath="/APPLICATION_PLUGINS_DIR/php/lib/php.jar"/>
+	<classpathentry kind="var" path="APPLICATION_PLUGINS_DIR/php/lib/php.jar" sourcepath="/APPLICATION_PLUGINS_DIR/php/lib/php.jar"/>
+	<classpathentry kind="var" path="APPLICATION_PLUGINS_DIR/php/lib/php.jar" sourcepath="/APPLICATION_PLUGINS_DIR/php/lib/php.jar"/>
+	<classpathentry kind="output" path="out/production/testwork"/>
+</classpath>

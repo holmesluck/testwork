@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/testwork"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="php.jar" scope="COMPILE">
+		<srcroot url="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/"/>
+	</lib>
+	<lib name="APPLICATION_PLUGINS_DIR/php/lib/php.jar" scope="COMPILE">
+		<srcroot url="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/"/>
+	</lib>
+	<lib name="APPLICATION_PLUGINS_DIR/php/lib/php.jar" scope="COMPILE">
+		<srcroot url="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/"/>
+	</lib>
+	<lib name="APPLICATION_PLUGINS_DIR/php/lib/php.jar" scope="COMPILE">
+		<srcroot url="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/"/>
+	</lib>
+	<lib name="PHP Runtime" scope="COMPILE">
+		<srcroot url="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard"/>
+	</lib>
+</component>

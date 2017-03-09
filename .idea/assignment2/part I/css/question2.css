@@ -1,0 +1,9 @@
+body {
+    background-color:#FFFF00;
+}
+h1 {color:red;}
+
+p {color:green;}
+#h1 {color:blue;}
+#div1 {font-weight:bold;}
+#div2 {font-style:italic;}
